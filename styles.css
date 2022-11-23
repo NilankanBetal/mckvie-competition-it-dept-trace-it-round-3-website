@@ -1,7 +1,7 @@
 body{
     background-color: black;
     color: white;
-
+    padding: 5% 8%;
 }
 
 h1{
@@ -30,8 +30,4 @@ h6 {
 
 h4 {
     font-size: x-large;
-}
-
-body {
-    padding: 5% 8%;
 }
