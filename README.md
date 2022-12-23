@@ -1,11 +1,12 @@
 # Round 3 - TRACE.IT 2K22 | INCOGNITO
 # Intoduction
-This is the files of the website of the 3rd round of TRACE.IT 2K22 (aka INCOGNITO, TRACE.IT 2K22 is a technical event/competition organised in our college, MCKV Instititute of Engineering, by us. I was also the member of organising team. My task was to build the nessesery technical infrastucture needed for making this event successful. I worked with [Sayan Ghosh](https://github.com/sayanghosh1), in this project also.
-# This website is hosted in Netlify, to see the hosted website, [click here](https://no-site.netlify.app/), but it's recommended that first one should read the [this section](#How-this-website-works?) first.
+This is the files of the website of the 3rd round of TRACE.IT 2K22 (aka INCOGNITO), TRACE.IT 2K22 is a technical event/competition organised in our college, MCKV Instititute of Engineering, by us. I was also the member of organising team. My task was to build the nessesery technical infrastucture needed for making this event successful. I worked with [Sayan Ghosh](https://github.com/sayanghosh1), in this project also.
+# This website is hosted in Netlify, to see the hosted website, [click here](https://no-site.netlify.app/), but it's recommended that first one should read the [How This Website Works?](#How-This-Website-Works?) section first.
 # Description
-This portion will be updated, in future...
-# How this website works?
-This portion will be updated, in future...
+The competition contained 3 rounds, this website was needed for the 3rd round. This is a website containing two coding questions (based on data structures and algorithms), each team has to write the code in the textboxes given for each problems, but on one can't see what is actually be written, only the blurred version of the code can be seen, the proper text/code can be seen only if the text is selected and the participants couldn't select anything written by them. That's one of the main challenge that imposed the difficulty to write right code, the next challenge was the time, they have to complete everything in a certain time. By the way, there was another option on the page also, to select the programming language to go because, all of the team had to select one.
+# How This Website Works?
+As given in the website, there are two questions based on data structure and algorithms. First one from the team have to select the programming language in which they wish to write all the code in the given textbox in the website. This option does nothing as there are no features related to the selected option. This was made just because to make it understand the programming language without seeing the code. There's also no mechanism to validate wheather the selected language is used for all the code or not. Next the team had to write code in each textbox after solving each coding question. <b>No one can see what is being written in the textbox</b>, but anyone who'll see at the textbox can say something is being written, as this is the main catch of the website, this makes the chance higher to make mistake/mistakes in their written code. <b>Anything written in the textboxes, can be seen only if written text in the textbox selected</b>. We used online compilers and interpreters for getting the outputs of the codes.
 # Credits
 The developers of this particular project:
 [Nilankan Betal](https://github.com/NilankanBetal) and [Sayan Ghosh](https://github.com/sayanghosh1).
+# Thank You!
